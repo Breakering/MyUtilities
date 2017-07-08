@@ -8,35 +8,9 @@
 
 ### 2.示例
 
-├── bin
-│   ├── little_finger.py
-│   ├── __init__.py
-├── conf
-│   ├── action_registers.py
-│   ├── settings.py
-│   ├── __init__.py
-├── modules
-│   ├── actions.py
-│   ├── common_filters.py
-│   ├── db_conn.py
-│   ├── demo_simple.py
-│   ├── interactive.py
-│   ├── logger.py
-│   ├── models.py
-│   ├── ssh_login.py
-│   ├── utils.py
-│   ├── views.py
-│   ├── __init__.py
-├── README.md
-├── requirements.txt
-├── share
-│   ├── examples
-│   │   ├── new_bindhosts.yml
-│   │   ├── new_bindhosts2.yml
-│   │   ├── new_groups.yml
-│   │   ├── new_groups2.yml
-│   │   ├── new_hosts.yml
-│   │   ├── new_remoteusers.yml
-│   │   ├── new_user.yml
-├── __init__.py
+示例如下图所示：
+
+![生成目录结构示例](目录结构示例.png)
+
+
 
